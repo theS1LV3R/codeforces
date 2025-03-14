@@ -1,0 +1,6 @@
+[workspace]
+resolver = "3"
+
+members = [ "bitplusplus", "domino_piling", "next_round", "team", "theatre_square",
+  "watermelon"
+, "way_too_long_words"]
